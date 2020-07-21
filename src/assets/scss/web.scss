@@ -1,0 +1,20 @@
+@import 'web/variables';
+@import 'web/mixins';
+
+
+// Core CSS
+@import "web/buttons";
+@import "web/misc";
+@import "web/pills";
+
+// components
+@import "web/navbar";
+@import "web/images";
+@import "web/footers";
+
+// example pages and sections
+@import "web/example-pages";
+@import "web/sections";
+@import "web/responsive";
+
+
