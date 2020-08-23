@@ -1,0 +1,6 @@
+{"features":[ {"properties":"Ruby","year":"2012","quarter":"2","count":"18117"},
+  {"properties":"Python","year":"2012","quarter":"2","count":"16557"},
+  {"properties":"JavaScript","year":"2012","quarter":"2","count":"16411"},
+  {"properties":"PHP","year":"2012","quarter":"2","count":"14460"},
+  {"properties":"Java","year":"2012","quarter":"2","count":"8006"},
+  {"properties":"C++","year":"2012","quarter":"2","count":"4879"}]}	
